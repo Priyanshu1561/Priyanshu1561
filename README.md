@@ -6,14 +6,12 @@
 </p>
 
 ---
-
-🔭 **Currently working on**: Building scalable Event & Guest Management systems at [Atithi Dev Bhav](#)  
+ 
 🌱 **Learning**: GraphQL, Next.js, System Design  
-💬 **Ask me about**: React, Django, REST APIs, Web Architecture  
+💬 **Ask me about**: React, Django, REST APIs, Web Architecture ,Java ,Spring Boot 
 📫 **Reach me at**: priyanshu1561@gmail.com  
 📍 **Location**: Indore, India  
 🎓 **B.Tech CSE** @ Medi-Caps University (2021–2025)  
-🏆 **Best Web Developer** – MII Club  
 
 ---
 
