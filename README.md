@@ -182,8 +182,8 @@ graph TD
 ## 🎨 Fun Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=priyanshu1561&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/priyanshu1561?style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-brown?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee"/>
 </div>
 
