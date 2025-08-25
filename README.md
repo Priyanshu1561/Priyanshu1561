@@ -88,12 +88,25 @@ class Developer {
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1561&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1561&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Contribution_Streak-Active-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB_Projects_Built-20%2B-4ECDC4?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%9F_Open_Source-Contributor-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8px"/>
+</div>
+
 
 ---
 
@@ -162,6 +175,7 @@ graph TD
 </div>
 
 ---
+
 
 ## 💭 Quote of the Day
 
